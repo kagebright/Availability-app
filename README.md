@@ -6,7 +6,7 @@ Welcome to the Bright Availability App! Come schedule more hangouts with your fr
 ## Table of Contents
 
 - [Description](#description)
-- [UserStory](#userstory)
+- [User Story](#userstory)
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
