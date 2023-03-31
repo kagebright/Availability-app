@@ -1,4 +1,6 @@
-# Availability App
+# Availability App - Spend More Quality Time with Friends!
+Welcome to the Bright Availability App! Come schedule more hangouts with your friends!
+![availability app](https://user-images.githubusercontent.com/113262558/229004801-65821d09-808d-4b4c-b5d8-815126902040.png)
 
 
 ## Table of Contents
@@ -18,12 +20,12 @@
 This a personal project of mine to create a user-friendly app that allows friends to input their availability and schedule hangouts together.
 
 ## User Story
-``As a user of the Availability Planner App 
+`As a user of the Availability Planner App 
 I want to be able to easily input my availability for different days and times 
 So that my friends can see when I'm free to hang out 
 I also want to be able to view my friends' availability and search for new friends on the app to connect with 
 The app should have a user-friendly interface that is easy to navigate, so I can quickly input and view my availability without any confusion. With the help of this app, 
-I hope to schedule more hangouts with my friends and spend more quality time with them. ``
+I hope to schedule more hangouts with my friends and spend more quality time with them. `
 
 ## Features
 
