@@ -13,7 +13,7 @@ Welcome to the Bright Availability App! Come schedule more hangouts with your fr
 - [Contributing](#contributing)
 - [Author](#author)
 - [Questions & Collaboration](#questionscollaboration)
-- [[Links](#links)
+- [Links](#links)
 - [Screenshots](#screenshots)
 
 ## Description
